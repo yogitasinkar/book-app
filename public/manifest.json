@@ -1,6 +1,6 @@
 {
     "short_name": "Book App",
-    "name": "Book App",
+    "name": "Book App PWA",
     "icons": [
         {
             "src": "/images/logo.png",
