@@ -26,7 +26,7 @@ const MyBook = () => {
     <>
       <Row className='h-100'>
       <Col/>
-      <Col lg={8} sm={10} className='h-90' >
+      <Col lg={8} sm={9} xs={10} className='h-90' >
       <FlipPage
         ref={flipPage}
         className="book"
