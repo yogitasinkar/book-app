@@ -5,6 +5,7 @@
 
 .h-90 {
   height: 85vh;
+  min-width: 600px;
 }
 
 .book {
