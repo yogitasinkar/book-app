@@ -13,11 +13,8 @@ const MyBook = () => {
   const flipPage = useRef();
 
   const handleNextClick = () => {
-    // flipPage.current.incrementPage()
     flipPage.current.incrementPage()
     setCurrentPageState(flipPage.current)
-    console.log(flipPage.current.gotoPage)
-    // flipPage.current.state.page = 3
   }
 
   const handlePrevClick = () => {
